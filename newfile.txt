@@ -1,0 +1,4 @@
+this is a newfile
+this is 2th line
+ok
+done!
