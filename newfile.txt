@@ -2,3 +2,9 @@ this is a newfile
 this is 2th line
 ok
 done!
+
+new line1
+new line2
+new line3
+
+
